@@ -6,36 +6,36 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
-subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
+subtitle = "We specialize  in the following"
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "chart-line"
+  icon = "microscope"
   icon_pack = "fas"
-  name = "Analysis"
-  parcent = "90%"
-  
+  name = "Microbiome Research"
+#  parcent = "90%"
+
 [[feature]]
-  icon = "user-secret"
+  icon = "cogs"
   icon_pack = "fas"
-  name = "Leadership"
-  parcent = "80%"  
-  
+  name = "Bioinformatics"
+#  parcent = "80%"  
+
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  parcent = "70%"
-  
-[[feature]]
-  icon = "searchengin"
+  icon = "r-project"
   icon_pack = "fab"
-  name = "Research"
-  parcent = "95%"
+  name = "R"
+#  parcent = "70%"
+
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Data Analysis"
+#  parcent = "95%"
 
 +++
