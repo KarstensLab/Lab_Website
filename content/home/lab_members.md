@@ -30,7 +30,7 @@ subtitle = "Meet the team"
     tag = "Principal Investigator"
     
     [[content.filter_button]]
-    name = "Researcher"
+    name = "Researchers"
     tag = "Researcher"
     
    [[content.filter_button]]
