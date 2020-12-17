@@ -6,6 +6,8 @@ tags:
 
 date: "2020-02-04T00:00:00Z"
 
+share: false
+
 links:
 - icon: twitter
   icon_pack: fab

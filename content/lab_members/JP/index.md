@@ -4,7 +4,9 @@ summary: Senior Research Associate
 tags:
 - Researcher
 
-#date: "2016-04-27T00:00:00Z"
+date: "2020-02-03T00:00:00Z"
+
+share: false
 
 # Optional external URL for project (replaces project detail page).
 #external_link: http://example.org

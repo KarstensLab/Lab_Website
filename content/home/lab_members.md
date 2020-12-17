@@ -50,7 +50,7 @@ subtitle = "Meet the team"
 #    tag = "robotics"
 
 [design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
+  # Choose how many columns the section has. Valid values: 1 or 2. changes font in header
   columns = "2"
 
   # Toggle between the various page layout types.
