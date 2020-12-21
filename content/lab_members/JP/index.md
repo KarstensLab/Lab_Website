@@ -6,6 +6,8 @@ tags:
 
 date: "2020-02-03T00:00:00Z"
 
+show_date : false
+
 share: false
 
 # Optional external URL for project (replaces project detail page).

@@ -6,7 +6,7 @@ tags:
 
 date: "2020-01-01T00:00:00Z"
 
-showdate : hide
+show_date : false
 
 share: false
 
