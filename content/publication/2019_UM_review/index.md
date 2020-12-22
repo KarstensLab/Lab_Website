@@ -21,8 +21,7 @@ publication_short: ""
 
 abstract: Many studies have shown that the urinary tract harbours its own microbial community known as the urinary microbiota, which have been implicated in urinary tract disorders. This observation contradicts the long-held notion that urine is a sterile biofluid in the absence of acute infection of the urinary tract. In light of this new discovery, many basic questions that are crucial for understanding the role of the urinary microbiota in human health and disease remain unanswered. Given that the urinary microbiota is an emerging area of study, optimized techniques and protocols to identify microorganisms in the urinary tract are still being established. However, the low microbial biomass and close proximity to higher microbial biomass environments (for example, the vagina) present distinct methodological challenges for microbial community profiling of the urinary microbiota. A clear understanding of the unique technical considerations for obtaining and analysing low microbial biomass samples, as well the influence of key elements of experimental design and computational analysis on downstream interpretation, will improve our ability to interpret and compare results across methods and studies and is relevant for studies profiling the urinary microbiota and other sites of low microbial abundance.
 
-# Summary. An optional shortened abstract.
-# summary:
+summary: " " 
 
 tags:
 - Source Themes

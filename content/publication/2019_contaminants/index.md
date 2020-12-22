@@ -21,8 +21,7 @@ publication_short: ""
 
 abstract: The relative scarcity of microbes in low-microbial-biomass environments makes accurate determination of community composition challenging. Identifying and controlling for contaminant bacterial DNA are critical steps in understanding microbial communities from these low-biomass environments. Our study introduces the use of a mock community dilution series as a positive control and evaluates four computational strategies that can identify contaminants in 16S rRNA gene sequencing experiments in order to remove them from downstream analyses. The appropriate computational approach for removing contaminant sequences from an experiment depends on prior knowledge about the microbial environment under investigation and can be evaluated with a dilution series of a mock microbial community.
 
-# Summary. An optional shortened abstract.
-# summary:
+summary: " " 
 
 tags:
 - Source Themes

@@ -19,10 +19,9 @@ publication_types: ["2"]
 publication: "mSystems"
 publication_short: ""
 
-abstract: Microbial communities have important ramifications for human health, but determining their impact requires accurate characterization. Current technology makes microbiome sequence data more accessible than ever. However, popular software methods for analyzing these data are based on algorithms developed alongside older sequencing technology and smaller data sets and thus may not be adequate for modern, high-throughput data sets. Additionally, samples from environments where microbes are scarce present additional challenges to community characterization relative to high-biomass environments, an issue that is often ignored. We found that a new class of microbiome sequence processing tools, called amplicon sequence variant (ASV) methods, outperformed conventional methods. In samples representing low-biomass communities, where sample contamination becomes a significant confounding factor, the improved accuracy of ASV methods may allow more-robust computational identification of contaminants.
+abstract: "Microbial communities have important ramifications for human health, but determining their impact requires accurate characterization. Current technology makes microbiome sequence data more accessible than ever. However, popular software methods for analyzing these data are based on algorithms developed alongside older sequencing technology and smaller data sets and thus may not be adequate for modern, high-throughput data sets. Additionally, samples from environments where microbes are scarce present additional challenges to community characterization relative to high-biomass environments, an issue that is often ignored. We found that a new class of microbiome sequence processing tools, called amplicon sequence variant (ASV) methods, outperformed conventional methods. In samples representing low-biomass communities, where sample contamination becomes a significant confounding factor, the improved accuracy of ASV methods may allow more-robust computational identification of contaminants."
 
-# Summary. An optional shortened abstract.
-# summary:
+summary: " " 
 
 tags:
 - Source Themes
@@ -62,11 +61,4 @@ projects: []
 # slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo academia's Markdown slides feature.
-{{% /alert %}}
 
