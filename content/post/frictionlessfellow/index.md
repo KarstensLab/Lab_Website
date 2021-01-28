@@ -1,7 +1,7 @@
 ---
 title: 'Congrats to Kate for receiving the Frictionless data fellowship!'
 subtitle: 
-summary: PhD student Kate Bowie received a fellowship through Frictionless data.
+summary: PhD student Kate Bowie received a fellowship through [Frictionless data] (https://fellows.frictionlessdata.io/).
 authors:
 - admin
 tags:
