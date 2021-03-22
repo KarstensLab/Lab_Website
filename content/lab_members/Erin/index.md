@@ -1,6 +1,6 @@
 ---
 title: Erin Dahl
-summary: Undergrad Student
+summary: Research Assistant
 tags:
 - Researcher
 
