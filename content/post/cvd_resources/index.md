@@ -1,13 +1,13 @@
 ---
-title: 'Congrats to Kate for receiving the Frictionless data fellowship!'
+title: 'Color Vision Deficency Resources'
 subtitle: 
-summary: PhD student Kate Bowie received a fellowship through Frictionless data
+summary: Build EXITO student Emory Neer has compiled CVD friendly palette and resources page
 authors:
 - admin
 tags:
 - academia
 categories: []
-date: "2020-08-20T00:00:00Z"
+date: "2020-10-20T00:00:00Z"
 featured: false
 draft: false
 
@@ -52,5 +52,5 @@ gallery_item:
   caption: Strawberry
   image: theme-strawberry.png
 ---
-Learn more about [Frictionless Data](https://frictionlessdata.io) 
+Build EXITO student Emory Neer has developed a resource page for CVD friendliness resources. She has worked on handcrafting a universially accessible palette  that is avalible the [resources page](https://sites.google.com/pdx.edu/cvd-friendliness-resources/home?fbclid=IwAR01_rPpeWNK3GaI2ozpnJr7THLH1ooWU7ZJ98ixVPJc2dBc18OEf_Mo-Mo). Also avalible at bit.ly/cvdresources
 

@@ -1,14 +1,13 @@
 ---
-title: 'Do you see what I see? 
-Introducing microshades: An R package for improving color accessibility and organization of complex data'
+title: 'Do you see what I see? '
 subtitle: 
-summary: 
+summary: "Introducing microshades: An R package for improving color accessibility and organization of complex data"
 authors:
 - admin
 tags:
 - academia
 categories: []
-date: "2020-08-20T00:00:00Z"
+date: "2021-03-19T00:00:00Z"
 featured: false
 draft: false
 
@@ -16,7 +15,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  focal_point: ""
+  focal_point: "Center"
   preview_only: false
 
 # Projects (optional).
