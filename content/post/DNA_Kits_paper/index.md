@@ -1,13 +1,13 @@
 ---
-title: 'Color Vision Deficency Resources'
+title: 'New Publication!'
 subtitle: 
-summary: Build EXITO student Emory Neer has compiled CVD friendly palette and resources page
+summary: "Benchmarking DNA isolation kits used in analyses of the urinary microbiome"
 authors:
 - admin
 tags:
 - academia
 categories: []
-date: "2020-10-20T00:00:00Z"
+date: "2021-03-17T00:00:00Z"
 featured: false
 draft: false
 
@@ -15,7 +15,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  focal_point: ""
+  focal_point: "Center"
   preview_only: false
 
 # Projects (optional).
@@ -52,5 +52,11 @@ gallery_item:
   caption: Strawberry
   image: theme-strawberry.png
 ---
-Build EXITO student Emory Neer has developed a resource page for [CVD friendliness resources](https://sites.google.com/pdx.edu/cvd-friendliness-resources/home?fbclid=IwAR01_rPpeWNK3GaI2ozpnJr7THLH1ooWU7ZJ98ixVPJc2dBc18OEf_Mo-Mo), including the handcrafted universally accessible palette that she has been working on. Also avalible at bit.ly/cvdresources
 
+We evaluated the performance of several DNA extraction kits on urine samples. While we found differences in the quantity of DNA extracted amongst kits, we did NOT find large differences in the microbial composition recovered from individual samples.
+
+Importantly, we found that the kits had a high variability in dilute samples, indicating that kit choice is important for low microbial biomass specimens such as catheter-collected urine.
+
+In our most dilute mock microbial samples, the DNeasy Blood & Tissue kit detected all expected microbes (and others), while the other kits did not. This reminds us that when dealing with low microbial biomass samples, experimental design is key to help identify contaminants.
+
+Read the full article [here](https://www.nature.com/articles/s41598-021-85482-1#disqus_thread)
