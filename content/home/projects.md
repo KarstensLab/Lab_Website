@@ -30,8 +30,8 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
     tag = "Urobiome"
     
    [[content.filter_button]]
-    name = "Human Microbiome"
-    tag = "human"
+    name = "Microbiome"
+    tag = "Microbiome"
 
   [[content.filter_button]]
     name = "Bioinformatics"
@@ -41,9 +41,9 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
     name = "Benchmarking"
     tag = "benchmark"
 
-#  [[content.filter_button]]
-#    name = "Robotics"
-#    tag = "robotics"
+  [[content.filter_button]]
+    name = "Data Viz"
+    tag = "Data Viz"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
