@@ -16,7 +16,7 @@ baseURL = "https://examplesite.org"
 copyright = "Copyright &copy; {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "G-6F227SJBEN"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
