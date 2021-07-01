@@ -1,6 +1,6 @@
 ---
 title: Eric Leung
-summary: Grad Student
+summary: Alumni - MS
 tags:
 - Alumni
 

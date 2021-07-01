@@ -1,7 +1,7 @@
 ---
 title: OHSU Research Week 2021
 subtitle: 
-summary: "Karstens Lab members are busy presenting their latest research at OHSU Research Week (held virtually the week of May 3rd, 2021)"
+summary: "Karstens Lab members are busy presenting their latest research at OHSU Research Week (held virtually)"
 authors:
 - admin
 tags:
