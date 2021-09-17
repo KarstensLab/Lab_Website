@@ -4,7 +4,7 @@ title: "Species-Level Resolution of Female Bladder Microbiota from 16S rRNA Ampl
 #- admin
 #- Robert Ford
 #date: "2015-09-01T00:00:00Z"
-doi: "10.1038/s41598-021-85482-1"
+doi: "10.1128/mSystems.00518-21"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-09-14T00:00:00Z"
@@ -30,7 +30,7 @@ featured: false
 links:
 # - name: ""
 #   url: ""
- url_pdf: 'https://doi-org.liboff.ohsu.edu/10.1128/mSystems.00518-21'
+# url_pdf: 'https://doi-org.liboff.ohsu.edu/10.1128/mSystems.00518-21'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
