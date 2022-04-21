@@ -1,10 +1,10 @@
 ---
 title: Erin Dahl
-summary: Research Assistant
+summary: Research Data Analyst
 tags:
 - Researcher
 
-date: "2020-01-01T00:00:00Z"
+date: "2020-02-01T00:00:00Z"
 
 show_date : false
 share: false
@@ -19,4 +19,4 @@ image:
 
 ---
 
-Erin Dahl joined the Karstens Lab in January 2020 as a DIMCE Intern. She continued working in the Karstens Lab as a student worker on improving data visualization and generalizing code workflows. Erin has recently completed her B.S. in Bioinformatics from Pacific University (January 21') and is now a Research Assistant in the Karstens Lab. 
+Erin Dahl joined the Karstens Lab in January 2020 as a DIMCE Intern. She continued working in the Karstens Lab as a student worker on improving data visualization and generalizing code workflows. Erin completed her B.S. in Bioinformatics from Pacific University (January 21') and is currently a Research Data Analyst in the Karstens Lab. 

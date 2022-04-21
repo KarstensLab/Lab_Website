@@ -39,7 +39,7 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
     
    [[content.filter_button]]
     name = "Benchmarking"
-    tag = "benchmark"
+    tag = "Benchmarking"
 
   [[content.filter_button]]
     name = "Data Viz"

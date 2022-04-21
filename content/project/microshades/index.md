@@ -1,10 +1,11 @@
 ---
-title: Low microbial biomass environments
-summary: Sequencing data that is used to study the microbiome is error prone, especially in samples originating from low microbial biomass environments.
+title: Microshades
+summary: An R package for improving color accessibility and organization of complex data
+
 tags:
 - Bioinformatics
 - Microbiome
-- Benchmarking
+- Data Viz
 
 #date: "2016-04-27T00:00:00Z"
 
