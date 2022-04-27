@@ -1,10 +1,10 @@
 ---
-#title: What is the female urinary microbiome?
+title: Do you see what I see? Introducing microshades, An R package for improving accessibility and organization of complex data
 event: useR! 2021 The R Conference
 event_url: https://user2021.r-project.org/
 location: Virtual
-# summary: An example talk using academia's Markdown slides feature.
-# abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+#summary: An example talk using academia's Markdown slides feature.
+#abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

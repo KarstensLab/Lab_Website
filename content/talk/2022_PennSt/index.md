@@ -1,21 +1,21 @@
 ---
-title: Do you see what I see? Introducing micro shades, An R package for improving accessibility and organization of complex data
-event: Cascadia R Conference 2021- Infectious Ideas
-event_url: https://cascadiarconf.com/speakers/lightning/
+title: Reliability and reproducibility in urobiome research – challenges and promise in investigating a low microbial biomass environment
+event: Penn State Microbiome Center
+#event_url: https://utiga.org/past
 location: Virtual
-# summary: An example talk using academia's Markdown slides feature.
-# abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+#summary: An example talk using academia's Markdown slides feature.
+#abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-06-05"
-#date_end: "2021-06-05T16:00:00Z"
+date: "2022-04-22"
+#date_end: "2020-10-10T11:20:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-06-05T13:00:00Z"
+publishDate: "2020-10-10T00:00:00Z"
 
-authors: [Erin Dahl]
+authors: [Lisa Karstens, PhD]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -23,7 +23,7 @@ featured: false
 
 image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Left
+  focal_point: Right
 
 links:
 #- icon: twitter

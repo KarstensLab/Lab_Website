@@ -1,21 +1,21 @@
 ---
-title: Do you see what I see? Introducing micro shades, An R package for improving accessibility and organization of complex data
-event: Cascadia R Conference 2021- Infectious Ideas
-event_url: https://cascadiarconf.com/speakers/lightning/
-location: Virtual
-# summary: An example talk using academia's Markdown slides feature.
-# abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+title: Rethinking the Role of Bacteria in the Bladder in Overactive Bladder and Urinary Incontinence
+event: SUFU 2022 Winter Meeting 
+event_url: https://sufuorg.com/meetings/past.aspx
+location: San Diego CA
+#summary: An example talk using academia's Markdown slides feature.
+#abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-06-05"
-#date_end: "2021-06-05T16:00:00Z"
-all_day: false
+date: "2022-02-22"
+date_end: "2022-02-26"
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-06-05T13:00:00Z"
+publishDate: "2020-10-10T00:00:00Z"
 
-authors: [Erin Dahl]
+authors: [Lisa Karstens, PhD and Kate Bowie, PhD Candidate]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -23,7 +23,7 @@ featured: false
 
 image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Left
+  focal_point: Center
 
 links:
 #- icon: twitter
