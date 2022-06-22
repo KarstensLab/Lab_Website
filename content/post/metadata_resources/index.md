@@ -15,7 +15,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  focal_point: "Center"
+  focal_point: "Smart"
   preview_only: false
 
 # Projects (optional).
@@ -55,7 +55,7 @@ gallery_item:
 
 The Karstens Lab has been working with the urobiome research community and National Microbiome Data Collaborative to develop metadata standards to make urobiome research more FAIR. Here are several resources to apply these standards to your own research:
 
-- [Urobiome metadata presentation](bit.ly/urobiome-metadata-pres-2022)
+- [Urobiome metadata presentation](https://github.com/KarstensLab/Presentations/tree/main/2022-UrobiomeMetadata)
 - [Forming Consensus To Advance Urobiome Research manuscript by Brubaker et al.](https://journals.asm.org/doi/full/10.1128/mSystems.01371-20?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)
 - [Urology /urogynecology terms: International Continence (ICS) glossary](https://www.ics.org/glossary#A )
 - [General terms - Genomic Standards Consortium MiXS 6, start with human-associated packages](https://github.com/GenomicsStandardsConsortium/mixs/blob/main/release/excel/mixs_v6.xlsx)
