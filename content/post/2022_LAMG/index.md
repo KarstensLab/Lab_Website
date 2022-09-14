@@ -1,7 +1,7 @@
 ---
 title: '2022 LAMG conference'
 subtitle: 
-summary: "At the 2022 Lake Arrowhead Microbial Genomics Conference Dr. Karstens presented microshades at the poster session."
+summary: "At the 2022 Lake Arrowhead Microbial Genomics Conference, the Karstens lab presented recent work..."
 authors:
 - admin
 tags:
@@ -53,8 +53,10 @@ gallery_item:
   image: theme-strawberry.png
 ---
 
-At the 2022 Lake Arrowhead Microbial Genomics Conference Dr. Karstens presented microshades at the poster session.
+At the 2022 Lake Arrowhead Microbial Genomics Conference, the Karstens lab presented recent work on evaluating microbial DNA in blood and the microshades R package at the poster session.
 
-The [poster pdf](https://github.com/KarstensLab/Presentations/blob/main/2022-LAMG/2022_LAMG_microshades_poster.pdf) is available online, as well as the [microshades repository](https://karstenslab.github.io/microshades).
+Kate Bowie (PhD candidate) presented "Assessing Microbial DNA in Blood: Does Fraction Matter?​" and Lisa Karstens, PhD presented "microshades: An R package for improving color accessibility and organization of microbiome data".
+
+For more information on microshades, see the [poster pdf](https://github.com/KarstensLab/Presentations/blob/main/2022-LAMG/2022_LAMG_microshades_poster.pdf) and the [microshades repository](https://karstenslab.github.io/microshades).
 
  
