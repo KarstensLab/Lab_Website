@@ -18,6 +18,9 @@ image:
   focal_point: Center
 ---
 
+Exciting news! The microshades paper was  highlighted as an ASMicrobiology Top Cited paper in 2023!  Read the paper [here](https://journals.asm.org/doi/10.1128/mra.00795-22)!
+
+
 We are excited to share the microshades R package. We have designed to provide custom color shading palettes for improving accessibility and data organization. Approximately 300 million people in the world have Color Vision Deficiency (CVD), so it is important to consider CVD accessibility when creating scientific figures that use color to relay information.
 
 
