@@ -1,13 +1,13 @@
 ---
-title: "microshades: An R Package for Improving Color Accessibility and Organization of Microbiome Data"
+title: "Updating Urinary Microbiome Analyses to Enhance Biologic Interpretation"
 #authors:
 #- admin
 #- Robert Ford
 #date: "2015-09-01T00:00:00Z"
-doi: "10.1128/mra.00795-22"
+doi: "10.3389/fcimb.2022.789439"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-10-31T00:00:00Z"
+publishDate: "2022-07-08T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,10 @@ publishDate: "2022-10-31T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Microbiology Resource Announcements"
+publication: "frontiers"
 publication_short: ""
 
-abstract: "When creating figures, it is important to consider that individuals with color vision deficiency (CVD) may not perceive all colors. While there are several CVD-friendly color palettes, they are often insufficient for working with microbiome data. Here, we introduce microshades, an R package for creating CVD-accessible microbiome figures."
+abstract: "An approach for assessing the urinary microbiome is 16S rRNA gene sequencing, where analysis methods are rapidly evolving. This re-analysis of an existing dataset aimed to determine whether updated bioinformatic and statistical techniques affect clinical inferences."
 
 summary: " " 
 
@@ -30,7 +30,7 @@ featured: false
 links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9670991/pdf/mra.00795-22.pdf'
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9309214/pdf/fcimb-12-789439.pdf'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
