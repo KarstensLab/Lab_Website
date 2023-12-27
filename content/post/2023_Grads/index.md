@@ -1,10 +1,10 @@
 ---
-title: Congrats 2023 Grads!
+title: Congratulations to the 2023 Karstens lab graduates
 subtitle: 
 summary: The Karstens lab members have continued to make progress towards wrapping up their studies in 2023...
 authors:
 - admin
-tags: []
+tags: 
 categories: []
 date: "2023-06-06T00:00:00Z"
 featured: false
