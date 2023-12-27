@@ -2,7 +2,7 @@
 title: Optimizing information to investigate the urobiome
 summary: " "
 event: Collaborating for the Advancement of Interdisciplinary Research in Benign Urology (CAIRIBU) Uromicrobiota Research Interest Group (U-RIG)
-event_url: cairibu.urology.wisc.edu
+event_url: https://cairibu.urology.wisc.edu/
 location: Virtual
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -56,4 +56,4 @@ math: true
 ---
 Lisa Karstens, PhD presented her group’s recent work at the Collaborating for the Advancement of Interdisciplinary Research in Benign Urology (CAIRIBU) Uromicrobiota Research Interest Group (U-RIG) in Dec 2023. You can watch her talk [“Optimizing information to investigate the urobiome”](https://www.youtube.com/watch?v=e85UO43gCYo) on the CAIRIBU YouTube channel.
 
-U-RIG is a monthly series for knowledge exchange and collaborations in urobiome and adjacent fields. For more information and to sign up go [here](cairibu.urology.wisc.edu).
+U-RIG is a monthly series for knowledge exchange and collaborations in urobiome and adjacent fields. For more information and to sign up go [here](https://cairibu.urology.wisc.edu/).
