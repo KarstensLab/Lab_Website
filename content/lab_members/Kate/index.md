@@ -18,5 +18,5 @@ image:
   focal_point: Smart
 ---
 
-Kate Bowie has completed her Ph.D. in the biomedical engineering department and has joined the Gerstein Lab at Yale University for her post-doctoral training. Her primary research was on targeted sequencing of low-microbial biomass samples and establishing robust methods to analyze samples with high amounts of DNA contamination. Kate applied these techniques towards studying bacterial translocation and the composition of the urinary microbiome in patients with prostate cancer. When not in the lab or during a global pandemic, you can find Kate seeing live music, hiking, or petting the neighborhood dogs.
+Kate Bowie, PhD has joined the Gerstein Lab at Yale University for her post-doctoral training. She completed her Ph.D. in the biomedical engineering department where her primary research was on targeted sequencing of low-microbial biomass samples and establishing robust methods to analyze samples with high amounts of DNA contamination. Kate applied these techniques towards studying bacterial translocation and the composition of the urinary microbiome in patients with prostate cancer. When not in the lab or during a global pandemic, you can find Kate seeing live music, hiking, or petting the neighborhood dogs.
 
