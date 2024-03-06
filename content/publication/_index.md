@@ -1,5 +1,6 @@
 ---
 title: Publications
+subtitle: Select publications are highlithed here. For a full list, see <https://scholar.google.com/citations?user=V5z9qWgAAAAJ&hl=en&oi=aor>
 
 # View.
 #   1 = List
