@@ -1,6 +1,6 @@
 ---
 title: Anagha Shenoy
-summary: Research Data Analyst
+summary: Student Data Analyst
 tags:
 - Researcher
 
