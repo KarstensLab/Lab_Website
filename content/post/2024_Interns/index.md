@@ -1,7 +1,7 @@
 ---
-title: Welcome 2024 Interns!
+title: 'Welcome 2024 Interns!'
 subtitle: 
-summary: The Karstens lab is excited to host two undergraduates as part of the Undergraduate Biomedical Informatics...
+summary: "The Karstens lab is excited to host two undergraduates as part of the Undergraduate Biomedical Informatics..."
 authors:
 - admin
 tags: []
