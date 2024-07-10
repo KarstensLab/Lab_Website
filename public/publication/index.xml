@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Karstens Lab</title>
+    <link>http://localhost:1313/publication/</link>
+    <description>Recent content in Publications on Karstens Lab</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Urinary microbiome community types associated with urinary incontinence severity in women</title>
+      <link>http://localhost:1313/publication/2023_community_types/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/2023_community_types/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microshades: An R Package for Improving Color Accessibility and Organization of Microbiome Data</title>
+      <link>http://localhost:1313/publication/2022_microshades/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/2022_microshades/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Updating Urinary Microbiome Analyses to Enhance Biologic Interpretation</title>
+      <link>http://localhost:1313/publication/2022_updating_um_analysis/</link>
+      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/2022_updating_um_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concordance of urinary microbiota detected by 16S ribosomal RNA amplicon sequencing vs expanded quantitative urine culture</title>
+      <link>http://localhost:1313/publication/2022_16s_equc/</link>
+      <pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/2022_16s_equc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Local Estrogen on the Urogenital Microbiome in Genitourinary Syndrome of Menopause: A Randomized-Controlled Trial</title>
+      <link>http://localhost:1313/publication/2022_postmeno_um/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/2022_postmeno_um/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network-Based Differences in the Vaginal and Bladder Microbial Communities Between Women With and Without Urgency Urinary Incontinence</title>
+      <link>http://localhost:1313/publication/2022_uui_networks/</link>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/2022_uui_networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Species-Level Resolution of Female Bladder Microbiota from 16S rRNA Amplicon Sequencing</title>
+      <link>http://localhost:1313/publication/2021_species_bladder_microbiota/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/2021_species_bladder_microbiota/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Benchmarking DNA isolation kits used in analyses of the urinary microbiome</title>
+      <link>http://localhost:1313/publication/2021_dna_kits/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/2021_dna_kits/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Controlling for Contaminants in Low-Biomass 16S rRNA Gene Sequencing Experiments</title>
+      <link>http://localhost:1313/publication/2019_contaminants/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/2019_contaminants/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Performance of Microbiome Sequence Inference Methods in Environments with Varying Biomass</title>
+      <link>http://localhost:1313/publication/2019_asvs/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/2019_asvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community profiling of the urinary microbiota: considerations for low-biomass samples</title>
+      <link>http://localhost:1313/publication/2019_um_review/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/2019_um_review/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

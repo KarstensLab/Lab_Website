@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alumni on Karstens Lab</title>
+    <link>http://localhost:1313/tags/alumni/</link>
+    <description>Recent content in Alumni on Karstens Lab</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://localhost:1313/tags/alumni/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Emory Neer</title>
+      <link>http://localhost:1313/lab_members/emory/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/emory/</guid>
+      <description>&lt;p&gt;Emory Neer studies public health and geographic information systems at Portland State. She has worked in the Karstens Lab as a part of the Build EXITO program on creating a universially colorblind friendly palette.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.pdx.edu/exito/&#34;&gt;https://www.pdx.edu/exito/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eric Leung</title>
+      <link>http://localhost:1313/lab_members/eric/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/eric/</guid>
+      <description>&lt;p&gt;Eric Leung graduated with a Master of Science in Biomedical Informatics, with a concentration in Bioinformatics and Computational Biology in Fall 2020. His thesis work was on studying the urinary and vaginal microbiomes of women with urgency urinary incontinence using network-based methods. He also enjoy supporting  co-learning and implementation of open-science initiatives.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ian Fields</title>
+      <link>http://localhost:1313/lab_members/ian/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/ian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alfonso Poire</title>
+      <link>http://localhost:1313/lab_members/alfonso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/alfonso/</guid>
+      <description>&lt;p&gt;Alfonso Poire received his undergraduate degree in microbiology and molecular genetics at the University of Vermont culminating in co-authoring a paper entitled &amp;ldquo;Successive evolutionary steps drove Pooideae grasses from tropical to temperate regions  doi: 10.1111/nph.14868&amp;rdquo; . In August 2019 he joined the Karstens Lab as a volunteer lab assistant, while part of the lab he worked mainly on investigating microbiome visualization software. He completed his capstone internship In La Jolla California in the laboratory of Dr.Christopher Dupont at the J Craig Ventner institute, where he investigated the colonization of Feather Moss by cyanobacteria and graduated from OHSU&amp;rsquo;s bioinformatics program in June of 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Carter Hoffman</title>
+      <link>http://localhost:1313/lab_members/carter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/carter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fatima</title>
+      <link>http://localhost:1313/lab_members/fatima/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/fatima/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

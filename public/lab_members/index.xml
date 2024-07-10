@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lab_members on Karstens Lab</title>
+    <link>http://localhost:1313/lab_members/</link>
+    <description>Recent content in Lab_members on Karstens Lab</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://localhost:1313/lab_members/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anagha Shenoy</title>
+      <link>http://localhost:1313/lab_members/anagha/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/anagha/</guid>
+      <description>&lt;p&gt;Anagha Shenoy is an undergraduate at the University of Illinois Urbana-Champaign studying computer science with minors in integrative biology and informatics. Her interests are in computational biology and bioinformatics to broaden understanding of human health and disease and support innovative research. As part of the Karstens Lab, Anagha contributes to research on computational and statistical approaches for quantitative profiling of the urinary microbiome.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Christina Turner</title>
+      <link>http://localhost:1313/lab_members/christina/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/christina/</guid>
+      <description>&lt;p&gt;Christina Turner joined the Karstens Lab in January 2024 while completing her PhD in computational biology at OHSU. While assisting with completing a wide array of projects in the Karstens Lab, her main focus is on reproducibility, including R coding for data analysis and creating publication-ready figures.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lisa Karstens</title>
+      <link>http://localhost:1313/lab_members/lisa/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/lisa/</guid>
+      <description>&lt;p&gt;Lisa Karstens, PhD is an Assistant Professor at Oregon Health &amp;amp; Science University in the Department of Medical Informatics and Clinical Epidemiology (Division of Bioinformatics and Computational Biomedicine) with a joint appointment in Obstetrics and Gynecology (Division of Urogynecology). She received her PhD in Chemistry from Princeton University prior to completing post-doctoral work in Bioinformatics and Urogynecology at OHSU. As faculty, she has been awarded the Oregon BIRWCH K12 career development award to investigate the urinary microbiome in women with overactive bladder syndrome, followed by an NIH NIDDK K01 Research Scientist Development Award to understand the functional contribution of the urinary microbiome to the bladder.&lt;/p&gt;
+&lt;p&gt;Dr. Karstens’ research interests broadly span using bioinformatics to understand the complex relationship between the human microbiome and disease, with a focus on women’s health and bladder disorders. Current research includes development of bioinformatic tools and novel integrative multi-omic approaches (such as metagenomics and metabolomics) to improve the analysis of microbial communities and microbiome function to ascertain the clinical utility of microbiomes.  To accelerate the impact of her work, she collaborates with clinicians and molecular biologists on a variety of projects, including the role of microbiome in rheumatic, neurologic, behavioral, and gynecologic disorders.&lt;/p&gt;
+&lt;p&gt;Dr. Karstens has a passion for teaching and mentoring as evidenced by a number of students ranging from high school to postdoctoral and medical fellows in her lab. She is involved with several outreach programs to engage underrepresented minority students and early career scientists in biomedical research, such as BUILD EXITO, and regularly participates as a mentor for summer research experiences. She teaches an introductory programming course in Python, as well as guest lectures on bioinformatic approaches and algorithms for studying the human microbiome.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jean-Philippe Gourdine</title>
+      <link>http://localhost:1313/lab_members/jp/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/jp/</guid>
+      <description>&lt;p&gt;Dr. Jean-Philippe (JP) Gourdine was a Senior Research Associate at the Oregon Health &amp;amp; Science University (OHSU), at the Oregon Clinical and Translational Institute (OCTRI) and part of Dr. Lisa Karstens&amp;rsquo; lab from 2019 to 2021. He is now an &lt;a href=&#34;https://college.lclark.edu/live/profiles/14861-jean-philippe-gourdine&#34;&gt;Assistant Professor of Chemistry at Lewis &amp;amp; Clark College&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;After his PhD in Marine Molecular Biology and Biochemistry (2006) from the Université des Antilles et de la Guyane (UAG, French Caribbean) and research and teaching positions in Glycobiology in France and the US (Martinique/Grenoble &amp;amp; Emory University, Atlanta, GA), he moved to Portland, Oregon in 2014, working as a scientific patent clerk at Kolisch-Hartwell then as a research associate in biological ontologies at OHSU.&lt;/p&gt;
+&lt;p&gt;Dr. Gourdine’s work in the Karstens’ lab included metadata and data standards in human urogenital microbiome (urobiome) research and investigating how urinary glycans are associated with the urobiome.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Erin Dahl</title>
+      <link>http://localhost:1313/lab_members/erin/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/erin/</guid>
+      <description>&lt;p&gt;Erin Dahl joined the Karstens Lab in January 2020 as a DIMCE Intern. She continued working in the Karstens Lab as a student worker on improving data visualization and generalizing code workflows. Erin completed her B.S. in Bioinformatics from Pacific University (January 2021&amp;rsquo;) and was a Research Data Analyst in the Karstens Lab from 2021 - 2022.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kate Bowie</title>
+      <link>http://localhost:1313/lab_members/kate/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/kate/</guid>
+      <description>&lt;p&gt;Kate Bowie, PhD has joined the Gerstein Lab at Yale University for her post-doctoral training. She completed her Ph.D. in the biomedical engineering department where her primary research was on targeted sequencing of low-microbial biomass samples and establishing robust methods to analyze samples with high amounts of DNA contamination. Kate applied these techniques towards studying bacterial translocation and the composition of the urinary microbiome in patients with prostate cancer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Alec Barstad</title>
+      <link>http://localhost:1313/lab_members/alec/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/alec/</guid>
+      <description>&lt;p&gt;Alec Barstad is a graduate of Portland Community College’s Bioscience Technology Technical training program. He was with the lab from 2019 - 2022 and his contributions were in microbiology (EQUC) in addition to sample and data management.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Emory Neer</title>
+      <link>http://localhost:1313/lab_members/emory/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/emory/</guid>
+      <description>&lt;p&gt;Emory Neer studies public health and geographic information systems at Portland State. She has worked in the Karstens Lab as a part of the Build EXITO program on creating a universially colorblind friendly palette.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.pdx.edu/exito/&#34;&gt;https://www.pdx.edu/exito/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Justine Nguyen</title>
+      <link>http://localhost:1313/lab_members/justine/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/justine/</guid>
+      <description>&lt;p&gt;Justine Nguyen, is a graduate student in the Department of Medical and Clinical Epidemiology at Oregon Health &amp;amp; Science University, studying Bioinformatics and Computational Biology.
+Previously, her master’s work in Bioinformatics revolved around predicting bacterial proteins in the Ovarian Tumor family through the use of generating features and learning from primary amino acid sequences. Her interests lie in using computational tools to drive lab experiments and aiding in modeling the underlying biology in a system.
+In the Karstens lab, she participated in the development of an IgA-seq package to help streamline IgA sequencing analyses.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eric Leung</title>
+      <link>http://localhost:1313/lab_members/eric/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/eric/</guid>
+      <description>&lt;p&gt;Eric Leung graduated with a Master of Science in Biomedical Informatics, with a concentration in Bioinformatics and Computational Biology in Fall 2020. His thesis work was on studying the urinary and vaginal microbiomes of women with urgency urinary incontinence using network-based methods. He also enjoy supporting  co-learning and implementation of open-science initiatives.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ian Fields</title>
+      <link>http://localhost:1313/lab_members/ian/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/ian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alfonso Poire</title>
+      <link>http://localhost:1313/lab_members/alfonso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/alfonso/</guid>
+      <description>&lt;p&gt;Alfonso Poire received his undergraduate degree in microbiology and molecular genetics at the University of Vermont culminating in co-authoring a paper entitled &amp;ldquo;Successive evolutionary steps drove Pooideae grasses from tropical to temperate regions  doi: 10.1111/nph.14868&amp;rdquo; . In August 2019 he joined the Karstens Lab as a volunteer lab assistant, while part of the lab he worked mainly on investigating microbiome visualization software. He completed his capstone internship In La Jolla California in the laboratory of Dr.Christopher Dupont at the J Craig Ventner institute, where he investigated the colonization of Feather Moss by cyanobacteria and graduated from OHSU&amp;rsquo;s bioinformatics program in June of 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Carter Hoffman</title>
+      <link>http://localhost:1313/lab_members/carter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/carter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fatima</title>
+      <link>http://localhost:1313/lab_members/fatima/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/fatima/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

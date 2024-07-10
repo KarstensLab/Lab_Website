@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Karstens Lab</title>
+    <link>http://localhost:1313/authors/</link>
+    <description>Recent content in Authors on Karstens Lab</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/authors/admin/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/authors/admin/</guid>
+      <description>&lt;p&gt;The Karstens Lab is an interdisciplinary group at Oregon Health &amp;amp; Science University in the Department of Medical Informatics, Division of Bioinformatics and Computational Biomedicine.  We study the human microbiome and its relationship to health and disease using high-throughput sequencing and analytical chemistry approaches. We specialize in the urinary microbiome and other low microbial biomass niches, but also have projects involving the gut microbiome.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lisa Karstens</title>
+      <link>http://localhost:1313/authors/lisa-karstens/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/authors/lisa-karstens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD</title>
+      <link>http://localhost:1313/authors/phd/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/authors/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD and Kate Bowie</title>
+      <link>http://localhost:1313/authors/phd-and-kate-bowie/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/authors/phd-and-kate-bowie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD Candidate</title>
+      <link>http://localhost:1313/authors/phd-candidate/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/authors/phd-candidate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erin Dahl</title>
+      <link>http://localhost:1313/authors/erin-dahl/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/authors/erin-dahl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MD</title>
+      <link>http://localhost:1313/authors/md/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/authors/md/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD and Ian Fields</title>
+      <link>http://localhost:1313/authors/phd-and-ian-fields/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/authors/phd-and-ian-fields/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ian Fields</title>
+      <link>http://localhost:1313/authors/ian-fields/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/authors/ian-fields/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/authors/authors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/authors/authors/</guid>
+      <description>&lt;p&gt;The Karstens Lab is an interdisciplinary group at Oregon Health &amp;amp; Science University in the Department of Medical Informatics, Division of Bioinformatics and Computational Biomedicine.  We study the human microbiome and its relationship to health and disease using high-throughput sequencing and analytical chemistry approaches. We specialize in the urinary microbiome and other low microbial biomass niches, but also have projects involving the gut microbiome.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

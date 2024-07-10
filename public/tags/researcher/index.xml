@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researcher on Karstens Lab</title>
+    <link>http://localhost:1313/tags/researcher/</link>
+    <description>Recent content in Researcher on Karstens Lab</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://localhost:1313/tags/researcher/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anagha Shenoy</title>
+      <link>http://localhost:1313/lab_members/anagha/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/anagha/</guid>
+      <description>&lt;p&gt;Anagha Shenoy is an undergraduate at the University of Illinois Urbana-Champaign studying computer science with minors in integrative biology and informatics. Her interests are in computational biology and bioinformatics to broaden understanding of human health and disease and support innovative research. As part of the Karstens Lab, Anagha contributes to research on computational and statistical approaches for quantitative profiling of the urinary microbiome.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Christina Turner</title>
+      <link>http://localhost:1313/lab_members/christina/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/christina/</guid>
+      <description>&lt;p&gt;Christina Turner joined the Karstens Lab in January 2024 while completing her PhD in computational biology at OHSU. While assisting with completing a wide array of projects in the Karstens Lab, her main focus is on reproducibility, including R coding for data analysis and creating publication-ready figures.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jean-Philippe Gourdine</title>
+      <link>http://localhost:1313/lab_members/jp/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/jp/</guid>
+      <description>&lt;p&gt;Dr. Jean-Philippe (JP) Gourdine was a Senior Research Associate at the Oregon Health &amp;amp; Science University (OHSU), at the Oregon Clinical and Translational Institute (OCTRI) and part of Dr. Lisa Karstens&amp;rsquo; lab from 2019 to 2021. He is now an &lt;a href=&#34;https://college.lclark.edu/live/profiles/14861-jean-philippe-gourdine&#34;&gt;Assistant Professor of Chemistry at Lewis &amp;amp; Clark College&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;After his PhD in Marine Molecular Biology and Biochemistry (2006) from the Université des Antilles et de la Guyane (UAG, French Caribbean) and research and teaching positions in Glycobiology in France and the US (Martinique/Grenoble &amp;amp; Emory University, Atlanta, GA), he moved to Portland, Oregon in 2014, working as a scientific patent clerk at Kolisch-Hartwell then as a research associate in biological ontologies at OHSU.&lt;/p&gt;
+&lt;p&gt;Dr. Gourdine’s work in the Karstens’ lab included metadata and data standards in human urogenital microbiome (urobiome) research and investigating how urinary glycans are associated with the urobiome.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Erin Dahl</title>
+      <link>http://localhost:1313/lab_members/erin/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/erin/</guid>
+      <description>&lt;p&gt;Erin Dahl joined the Karstens Lab in January 2020 as a DIMCE Intern. She continued working in the Karstens Lab as a student worker on improving data visualization and generalizing code workflows. Erin completed her B.S. in Bioinformatics from Pacific University (January 2021&amp;rsquo;) and was a Research Data Analyst in the Karstens Lab from 2021 - 2022.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

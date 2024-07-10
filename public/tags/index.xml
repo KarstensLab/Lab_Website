@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Karstens Lab</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Karstens Lab</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academia</title>
+      <link>http://localhost:1313/tags/academia/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/academia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Researcher</title>
+      <link>http://localhost:1313/tags/researcher/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/researcher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>http://localhost:1313/tags/source-themes/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Principal Investigator</title>
+      <link>http://localhost:1313/tags/principal-investigator/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/principal-investigator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grad Students</title>
+      <link>http://localhost:1313/tags/grad-students/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/grad-students/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alumni</title>
+      <link>http://localhost:1313/tags/alumni/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/alumni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Researchers</title>
+      <link>http://localhost:1313/tags/undergraduate-researchers/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/undergraduate-researchers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmarking</title>
+      <link>http://localhost:1313/tags/benchmarking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/benchmarking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioinformatics</title>
+      <link>http://localhost:1313/tags/bioinformatics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bladder Disorders</title>
+      <link>http://localhost:1313/tags/bladder-disorders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/bladder-disorders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Viz</title>
+      <link>http://localhost:1313/tags/data-viz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/data-viz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microbiome</title>
+      <link>http://localhost:1313/tags/microbiome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/microbiome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urobiome</title>
+      <link>http://localhost:1313/tags/urobiome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/urobiome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women&#39;s Health</title>
+      <link>http://localhost:1313/tags/womens-health/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/womens-health/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

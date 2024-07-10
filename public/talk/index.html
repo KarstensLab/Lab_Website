@@ -1,0 +1,1830 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academia 4.3.1">
+  
+  
+  
+    
+      
+    
+  
+
+
+  
+  <meta name="generator" content="Hugo 0.125.1">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Karstens Lab">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Microbiome Bioinformatics">
+
+  
+  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/talk/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#fc6f5c">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Open+Sans|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academia.min.b246554d075350d61b44c126dfbcbe05.css">
+
+  
+
+  
+
+  
+  <link rel="alternate" href="/talk/index.xml" type="application/rss+xml" title="Karstens Lab">
+  <link rel="feed" href="/talk/index.xml" type="application/rss+xml" title="Karstens Lab">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="http://localhost:1313/talk/">
+
+  
+  
+  
+  
+    
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Karstens Lab">
+  <meta property="og:url" content="http://localhost:1313/talk/">
+  <meta property="og:title" content="Recent &amp; Upcoming Talks | Karstens Lab">
+  <meta property="og:description" content="Microbiome Bioinformatics"><meta property="og:image" content="http://localhost:1313/img/bacteria_seqs_circle.png">
+  <meta property="twitter:image" content="http://localhost:1313/img/bacteria_seqs_circle.png"><meta property="og:locale" content="en-us">
+  
+  <meta property="og:updated_time" content="2023-12-15T00:00:00&#43;00:00">
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>Recent &amp; Upcoming Talks | Karstens Lab</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Karstens Lab</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"><span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#post"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#lab_members"><span>Lab Members</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+    
+    
+    
+    
+    <div class="universal-wrapper py-3">
+      <h1 itemprop="name">Recent &amp; Upcoming Talks</h1>
+
+      
+
+      
+      
+    </div>
+  </div>
+</div>
+
+<div class="universal-wrapper">
+  <div class="row">
+    <div class="col-lg-12">
+
+      
+
+      
+      <div class="row" id="talk_list">
+        <div class="col-lg-2">
+          <h3>2023</h3>
+        </div>
+        <div class="col-lg-10">
+
+          
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="col-md-10 col-lg-8">
+    <div class="media stream-item shadow p-4" itemscope itemtype="http://schema.org/Event">
+      <div class="media-body">
+
+        <h3 class="article-title mb-0 mt-0" itemprop="name">
+          <a href="/talk/2023_cairibu/" itemprop="url">Optimizing information to investigate the urobiome</a>
+        </h3>
+
+        
+
+        <div class="stream-meta article-metadata">
+
+          
+          <div>
+            <span itemprop="startDate">
+              
+              Dec 15, 2023
+              
+            </span>
+            
+            <span class="middot-divider"></span>
+            <span itemprop="location">Virtual</span>
+            
+          </div>
+          
+
+          
+          <div itemprop="author">
+            
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/lisa-karstens/">Lisa Karstens</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/phd/">PhD</a></span>
+
+          </div>
+          
+        </div>
+
+        
+        <div class="btn-links">
+          
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=e85UO43gCYo" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+
+        </div>
+        
+
+      </div>
+      <div class="ml-3">
+        
+        
+        
+        <a href="/talk/2023_cairibu/">
+          <img src="/talk/2023_cairibu/featured_hu6e7fd4742affd5685f60d9bd975ac8b3_2180729_250x0_resize_lanczos_3.png" itemprop="image">
+        </a>
+        
+      </div>
+    </div>
+  </div>
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="col-md-10 col-lg-8">
+    <div class="media stream-item shadow p-4" itemscope itemtype="http://schema.org/Event">
+      <div class="media-body">
+
+        <h3 class="article-title mb-0 mt-0" itemprop="name">
+          <a href="/talk/2023_iccmg/" itemprop="url">Introducing the Human Contaminome</a>
+        </h3>
+
+        
+
+        <div class="stream-meta article-metadata">
+
+          
+          <div>
+            <span itemprop="startDate">
+              
+              Nov 16, 2023
+              
+            </span>
+            
+            <span class="middot-divider"></span>
+            <span itemprop="location">Virtual</span>
+            
+          </div>
+          
+
+          
+          <div itemprop="author">
+            
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/lisa-karstens/">Lisa Karstens</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/phd/">PhD</a></span>
+
+          </div>
+          
+        </div>
+
+        
+        <div class="btn-links">
+          
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://clinicalmetagenomics.org/wp-content/uploads/2023/12/Presentation-Lisa-Karstens.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+        </div>
+        
+
+      </div>
+      <div class="ml-3">
+        
+        
+        
+        <a href="/talk/2023_iccmg/">
+          <img src="/talk/2023_iccmg/featured_hueca5ec33d4f283ec3c1dc536743a99ba_1276163_250x0_resize_lanczos_3.png" itemprop="image">
+        </a>
+        
+      </div>
+    </div>
+  </div>
+            
+          
+
+        </div>
+      </div>
+      
+      <div class="row" id="talk_list">
+        <div class="col-lg-2">
+          <h3>2022</h3>
+        </div>
+        <div class="col-lg-10">
+
+          
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="col-md-10 col-lg-8">
+    <div class="media stream-item shadow p-4" itemscope itemtype="http://schema.org/Event">
+      <div class="media-body">
+
+        <h3 class="article-title mb-0 mt-0" itemprop="name">
+          <a href="/talk/2022_metadata/" itemprop="url">Introduction to Urobiome Metadata Standards</a>
+        </h3>
+
+        
+
+        <div class="stream-meta article-metadata">
+
+          
+          <div>
+            <span itemprop="startDate">
+              
+              Apr 28, 2022
+              
+            </span>
+            
+            <span class="middot-divider"></span>
+            <span itemprop="location">Virtual</span>
+            
+          </div>
+          
+
+          
+          <div itemprop="author">
+            
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/lisa-karstens/">Lisa Karstens</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/phd/">PhD</a></span>
+
+          </div>
+          
+        </div>
+
+        
+        <div class="btn-links">
+          
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+        
+
+      </div>
+      <div class="ml-3">
+        
+        
+        
+        <a href="/talk/2022_metadata/">
+          <img src="/talk/2022_metadata/featured_hud8be4ec635cdc7ed6bd7c8671eef46a7_79716_250x0_resize_q90_lanczos.jpg" itemprop="image">
+        </a>
+        
+      </div>
+    </div>
+  </div>
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="col-md-10 col-lg-8">
+    <div class="media stream-item shadow p-4" itemscope itemtype="http://schema.org/Event">
+      <div class="media-body">
+
+        <h3 class="article-title mb-0 mt-0" itemprop="name">
+          <a href="/talk/2022_pennst/" itemprop="url">Reliability and reproducibility in urobiome research – challenges and promise in investigating a low microbial biomass environment</a>
+        </h3>
+
+        
+
+        <div class="stream-meta article-metadata">
+
+          
+          <div>
+            <span itemprop="startDate">
+              
+              Apr 22, 2022
+              
+              12:00 AM
+              
+              
+            </span>
+            
+            <span class="middot-divider"></span>
+            <span itemprop="location">Virtual</span>
+            
+          </div>
+          
+
+          
+          <div itemprop="author">
+            
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/lisa-karstens/">Lisa Karstens</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/phd/">PhD</a></span>
+
+          </div>
+          
+        </div>
+
+        
+        <div class="btn-links">
+          
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+        
+
+      </div>
+      <div class="ml-3">
+        
+        
+        
+        <a href="/talk/2022_pennst/">
+          <img src="/talk/2022_pennst/featured_hua376d8fa908ddeb9229d1dd08343c6c3_579410_250x0_resize_q90_lanczos.jpg" itemprop="image">
+        </a>
+        
+      </div>
+    </div>
+  </div>
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="col-md-10 col-lg-8">
+    <div class="media stream-item shadow p-4" itemscope itemtype="http://schema.org/Event">
+      <div class="media-body">
+
+        <h3 class="article-title mb-0 mt-0" itemprop="name">
+          <a href="/talk/2022_utiga/" itemprop="url">The bladder is not the gut - Adapting methods to investigate the Urobiome</a>
+        </h3>
+
+        
+
+        <div class="stream-meta article-metadata">
+
+          
+          <div>
+            <span itemprop="startDate">
+              
+              Feb 28, 2022
+              
+              12:00 AM
+              
+              
+            </span>
+            
+            <span class="middot-divider"></span>
+            <span itemprop="location">Virtual</span>
+            
+          </div>
+          
+
+          
+          <div itemprop="author">
+            
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/lisa-karstens/">Lisa Karstens</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/phd/">PhD</a></span>
+
+          </div>
+          
+        </div>
+
+        
+        <div class="btn-links">
+          
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+        
+
+      </div>
+      <div class="ml-3">
+        
+        
+        
+        <a href="/talk/2022_utiga/">
+          <img src="/talk/2022_utiga/featured_hu4ad8e720e3cbf55a4f51e29279f3f1aa_412936_250x0_resize_q90_lanczos.jpg" itemprop="image">
+        </a>
+        
+      </div>
+    </div>
+  </div>
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="col-md-10 col-lg-8">
+    <div class="media stream-item shadow p-4" itemscope itemtype="http://schema.org/Event">
+      <div class="media-body">
+
+        <h3 class="article-title mb-0 mt-0" itemprop="name">
+          <a href="/talk/2022_sufu/" itemprop="url">Rethinking the Role of Bacteria in the Bladder in Overactive Bladder and Urinary Incontinence</a>
+        </h3>
+
+        
+
+        <div class="stream-meta article-metadata">
+
+          
+          <div>
+            <span itemprop="startDate">
+              
+              Feb 22, 2022
+              
+            </span>
+            
+            <span class="middot-divider"></span>
+            <span itemprop="location">San Diego CA</span>
+            
+          </div>
+          
+
+          
+          <div itemprop="author">
+            
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/lisa-karstens/">Lisa Karstens</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/phd-and-kate-bowie/">PhD and Kate Bowie</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/phd-candidate/">PhD Candidate</a></span>
+
+          </div>
+          
+        </div>
+
+        
+        <div class="btn-links">
+          
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+        
+
+      </div>
+      <div class="ml-3">
+        
+        
+        
+        <a href="/talk/2022_sufu/">
+          <img src="/talk/2022_sufu/featured_hua796da32e0d59548f58d66a811b0565c_389881_250x0_resize_q90_lanczos.jpg" itemprop="image">
+        </a>
+        
+      </div>
+    </div>
+  </div>
+            
+          
+
+        </div>
+      </div>
+      
+      <div class="row" id="talk_list">
+        <div class="col-lg-2">
+          <h3>2021</h3>
+        </div>
+        <div class="col-lg-10">
+
+          
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="col-md-10 col-lg-8">
+    <div class="media stream-item shadow p-4" itemscope itemtype="http://schema.org/Event">
+      <div class="media-body">
+
+        <h3 class="article-title mb-0 mt-0" itemprop="name">
+          <a href="/talk/2021_user/" itemprop="url">Do you see what I see? Introducing microshades, An R package for improving accessibility and organization of complex data</a>
+        </h3>
+
+        
+
+        <div class="stream-meta article-metadata">
+
+          
+          <div>
+            <span itemprop="startDate">
+              
+              Jul 6, 2021
+              
+              12:00 AM
+              
+              
+            </span>
+            
+            <span class="middot-divider"></span>
+            <span itemprop="location">Virtual</span>
+            
+          </div>
+          
+
+          
+          <div itemprop="author">
+            
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/lisa-karstens/">Lisa Karstens</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/phd/">PhD</a></span>
+
+          </div>
+          
+        </div>
+
+        
+        <div class="btn-links">
+          
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/KarstensLab/Presentations/tree/main/useR2021" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+        </div>
+        
+
+      </div>
+      <div class="ml-3">
+        
+        
+        
+        <a href="/talk/2021_user/">
+          <img src="/talk/2021_user/featured_hu5ff77902e9db95111541f32e2abc0f6e_125170_250x0_resize_q90_lanczos.jpg" itemprop="image">
+        </a>
+        
+      </div>
+    </div>
+  </div>
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="col-md-10 col-lg-8">
+    <div class="media stream-item shadow p-4" itemscope itemtype="http://schema.org/Event">
+      <div class="media-body">
+
+        <h3 class="article-title mb-0 mt-0" itemprop="name">
+          <a href="/talk/2021_cascadiar/" itemprop="url">Do you see what I see? Introducing micro shades, An R package for improving accessibility and organization of complex data</a>
+        </h3>
+
+        
+
+        <div class="stream-meta article-metadata">
+
+          
+          <div>
+            <span itemprop="startDate">
+              
+              Jun 5, 2021
+              
+              12:00 AM
+              
+              
+            </span>
+            
+            <span class="middot-divider"></span>
+            <span itemprop="location">Virtual</span>
+            
+          </div>
+          
+
+          
+          <div itemprop="author">
+            
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/erin-dahl/">Erin Dahl</a></span>
+
+          </div>
+          
+        </div>
+
+        
+        <div class="btn-links">
+          
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+        
+
+      </div>
+      <div class="ml-3">
+        
+        
+        
+        <a href="/talk/2021_cascadiar/">
+          <img src="/talk/2021_cascadiar/featured_huc85daafe79f70e575e0276e523da9742_57610_250x0_resize_q90_lanczos.jpg" itemprop="image">
+        </a>
+        
+      </div>
+    </div>
+  </div>
+            
+          
+
+        </div>
+      </div>
+      
+      <div class="row" id="talk_list">
+        <div class="col-lg-2">
+          <h3>2020</h3>
+        </div>
+        <div class="col-lg-10">
+
+          
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="col-md-10 col-lg-8">
+    <div class="media stream-item shadow p-4" itemscope itemtype="http://schema.org/Event">
+      <div class="media-body">
+
+        <h3 class="article-title mb-0 mt-0" itemprop="name">
+          <a href="/talk/2020_nwupdate/" itemprop="url"></a>
+        </h3>
+
+        
+
+        <div class="stream-meta article-metadata">
+
+          
+          <div>
+            <span itemprop="startDate">
+              
+              Oct 15, 2020
+              
+              12:00 AM
+              
+              
+            </span>
+            
+            <span class="middot-divider"></span>
+            <span itemprop="location">Virtual</span>
+            
+          </div>
+          
+
+          
+          <div itemprop="author">
+            
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/lisa-karstens/">Lisa Karstens</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/phd-and-ian-fields/">PhD and Ian Fields</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/md/">MD</a></span>
+
+          </div>
+          
+        </div>
+
+        
+        <div class="btn-links">
+          
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+        
+
+      </div>
+      <div class="ml-3">
+        
+        
+        
+        <a href="/talk/2020_nwupdate/">
+          <img src="/talk/2020_nwupdate/featured_hu874d54f2ae4839f4d49761ee679dabcf_32821_250x0_resize_q90_lanczos.jpg" itemprop="image">
+        </a>
+        
+      </div>
+    </div>
+  </div>
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="col-md-10 col-lg-8">
+    <div class="media stream-item shadow p-4" itemscope itemtype="http://schema.org/Event">
+      <div class="media-body">
+
+        <h3 class="article-title mb-0 mt-0" itemprop="name">
+          <a href="/talk/2020_augs/" itemprop="url"></a>
+        </h3>
+
+        
+
+        <div class="stream-meta article-metadata">
+
+          
+          <div>
+            <span itemprop="startDate">
+              
+              Oct 10, 2020
+              
+              12:00 AM
+              
+              
+            </span>
+            
+            <span class="middot-divider"></span>
+            <span itemprop="location">Virtual</span>
+            
+          </div>
+          
+
+          
+          <div itemprop="author">
+            
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/ian-fields/">Ian Fields</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/md/">MD</a></span>
+
+          </div>
+          
+        </div>
+
+        
+        <div class="btn-links">
+          
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+        
+
+      </div>
+      <div class="ml-3">
+        
+        
+        
+        <a href="/talk/2020_augs/">
+          <img src="/talk/2020_augs/featured_hu672a233e3506c1dfd3aed743b232ba81_99353_250x0_resize_q90_lanczos.jpg" itemprop="image">
+        </a>
+        
+      </div>
+    </div>
+  </div>
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="col-md-10 col-lg-8">
+    <div class="media stream-item shadow p-4" itemscope itemtype="http://schema.org/Event">
+      <div class="media-body">
+
+        <h3 class="article-title mb-0 mt-0" itemprop="name">
+          <a href="/talk/2019_glbio/" itemprop="url"></a>
+        </h3>
+
+        
+
+        <div class="stream-meta article-metadata">
+
+          
+          <div>
+            <span itemprop="startDate">
+              
+              May 19, 2020
+              
+              12:00 AM
+              
+              
+            </span>
+            
+            <span class="middot-divider"></span>
+            <span itemprop="location">Madison, Wisconsin</span>
+            
+          </div>
+          
+
+          
+          <div itemprop="author">
+            
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/lisa-karstens/">Lisa Karstens</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/phd/">PhD</a></span>
+
+          </div>
+          
+        </div>
+
+        
+        <div class="btn-links">
+          
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+        
+
+      </div>
+      <div class="ml-3">
+        
+        
+        
+        <a href="/talk/2019_glbio/">
+          <img src="/talk/2019_glbio/featured_huf971357ad87f01c00aaed73bed6d5556_48064_250x0_resize_q90_lanczos.jpg" itemprop="image">
+        </a>
+        
+      </div>
+    </div>
+  </div>
+            
+          
+
+        </div>
+      </div>
+      
+
+    </div>
+  </div>
+
+</div>
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/js/academia.min.6c2ba2801d406881b3c2277043cedd76.js"></script>
+
+    
+
+
+
+
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        
+        <p>
+          Copyright © 2024 &middot; 
+          Powered by
+          <a href="https://gethugothemes.com" target="_blank" rel="noopener">Gethugothemes</a>
+        </p>
+      </div>
+      <div class="col-md-6">
+        <ul class="list-inline network-icon text-right">
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://twitter.com/lisakarstens" target="_blank" rel="noopener" title="DM Me"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://github.com/karstenslab" target="_blank" rel="noopener" title="DM Me"><i class="fab fa-github" aria-hidden="true"></i></a>
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

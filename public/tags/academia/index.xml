@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academia on Karstens Lab</title>
+    <link>http://localhost:1313/tags/academia/</link>
+    <description>Recent content in Academia on Karstens Lab</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://localhost:1313/tags/academia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>microshades featured by ASM journal</title>
+      <link>http://localhost:1313/post/2024_asm_dei/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/2024_asm_dei/</guid>
+      <description>&lt;p&gt;We are excited to share the &lt;a href=&#34;https://journals.asm.org/doi/10.1128/MRA.00795-22&#34;&gt;“microshades: An R package for improving color accessibility and organization of microbiome data”&lt;/a&gt; has been included into the &lt;a href=&#34;https://journals.asm.org/dei-collection&#34;&gt;Diversity, Equity, and Inclusion Collection&lt;/a&gt; of the American Society for Microbiology Journal.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Karstens lab at 2023 AUGS PFD Week</title>
+      <link>http://localhost:1313/post/2023_augs_pfd/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/2023_augs_pfd/</guid>
+      <description>&lt;p&gt;At the 2023 American Urogynecologic Society (AUGS) Pelvic Floor Disorders Week, the Karstens lab presented recent work on the urinary microbiome.&lt;/p&gt;
+&lt;p&gt;Dr. JP Gourdine (now at Lewis &amp;amp; Clark College) presented work completed in the Karstens Lab in his talk entitled “Altered urinary free oligosaccharides in postmenopausal women with dry overactive bladder.”  Collaborator Nicki Diaz, MD from Duke University presented “Associations between Lactobacilli, menopause and vaginal estrogen use”. She won the Best Resident/Student paper for this work. She also presented a poster on “Comparison of Host Depletion Protocols and Sequencing Techniques for Urinary Microbiome”.&lt;/p&gt;
+&lt;p&gt;Stay tuned for more information on these projects, which will be deposited as preprints soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2022 LAMG conference</title>
+      <link>http://localhost:1313/post/2022_lamg/</link>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/2022_lamg/</guid>
+      <description>&lt;p&gt;At the 2022 Lake Arrowhead Microbial Genomics Conference, the Karstens lab presented recent work on evaluating microbial DNA in blood and the microshades R package at the poster session.&lt;/p&gt;
+&lt;p&gt;Kate Bowie (PhD candidate) presented &amp;ldquo;Assessing Microbial DNA in Blood: Does Fraction Matter?​&amp;rdquo; and Lisa Karstens, PhD presented &amp;ldquo;microshades: An R package for improving color accessibility and organization of microbiome data&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;For more information on microshades, see the &lt;a href=&#34;https://github.com/KarstensLab/Presentations/blob/main/2022-LAMG/2022_LAMG_microshades_poster.pdf&#34;&gt;poster pdf&lt;/a&gt; and the &lt;a href=&#34;https://karstenslab.github.io/microshades&#34;&gt;microshades repository&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Urobiome metadata standards Resources</title>
+      <link>http://localhost:1313/post/metadata_resources/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/metadata_resources/</guid>
+      <description>&lt;p&gt;The Karstens Lab has been working with the urobiome research community and National Microbiome Data Collaborative to develop metadata standards to make urobiome research more FAIR. Here are several resources to apply these standards to your own research:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/KarstensLab/Presentations/tree/main/2022-UrobiomeMetadata&#34;&gt;Urobiome metadata presentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://journals.asm.org/doi/full/10.1128/mSystems.01371-20?rfr_dat=cr_pub++0pubmed&amp;url_ver=Z39.88-2003&amp;rfr_id=ori%3Arid%3Acrossref.org&#34;&gt;Forming Consensus To Advance Urobiome Research manuscript by Brubaker et al.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ics.org/glossary#A&#34;&gt;Urology /urogynecology terms: International Continence (ICS) glossary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/GenomicsStandardsConsortium/mixs/blob/main/release/excel/mixs_v6.xlsx&#34;&gt;General terms - Genomic Standards Consortium MiXS 6, start with human-associated packages&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Karstens Lab was busy at SUFU 2022!</title>
+      <link>http://localhost:1313/post/2022_sufu/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/2022_sufu/</guid>
+      <description>&lt;p&gt;Dr. Karstens presented Rethinking the Role of Bacteria in the Bladder in Overactive Bladder and Urinary Incontinence in the Young Investigator Spotlight at the SUFU 2022 Winter meeting. She also presented on the findings from the HMS-ESTEEM study linking the urobiome to urinary incontinence severity in women with mixed urinary incontinence. Kate Bowie (PhD candidate) also presented her work on male urinary microbiome in men with lower urinary tract symptoms.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Circle of Giving</title>
+      <link>http://localhost:1313/post/circle_of_giving/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/circle_of_giving/</guid>
+      <description>&lt;p&gt;Dr. Lisa Karstens and Dr. JP Gourdine are honored to receive funding for their study “Better-sweet bugs in the bladder” through OHSU Center for Women&amp;rsquo;s Health Circle of Giving. This generous support will allow them to further identify the contribution of bacteria to bladder health and over active bladder symptoms in women. Learn more &lt;a href=&#34;https://bit.ly/3fO5WdJ&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OHSU Research Week 2021</title>
+      <link>http://localhost:1313/post/research_week_2021/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/research_week_2021/</guid>
+      <description>&lt;p&gt;Karstens Lab members are busy presenting their latest research at OHSU Research Week (held virtually the week of May 3rd, 2021). Justine Nguyen presented IgAseq: A R/Bioconductor package to identify immune-associated bacteria for IgA-Seq experiments. Kate Bowie presented To flow or not to flow: Considerations for quantitative microbiome profiling. Emory Neer presented Do you see what I see? Improving color accessibility and organization of complex data with the microshades CVD color palette. Click &lt;a href=&#34;https://www.ohsu.edu/research-week&#34;&gt;here&lt;/a&gt; to learn more about research week!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Do you see what I see? </title>
+      <link>http://localhost:1313/post/microshades/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/microshades/</guid>
+      <description>&lt;p&gt;We are excited to share the microshades R package. We have designed to provide custom color shading palettes for improving accessibility and data organization. Approximately 300 million people in the world have Color Vision Deficiency (CVD), so it is important to consider CVD accessibility when creating scientific figures that use color to relay information.&lt;/p&gt;
+&lt;p&gt;This package includes color palettes, containing 6 base colors with 5 incremental light to dark shades, for a total of 30 available colors per palette type that can be directly applied to any plot. In addition to color palettes, this package can also be used in conjunction with the R package phyloseq to enhance microbiome data visualization. The accessibility and advanced color organization features help data reviewers and consumers notice visual patterns and trends easier.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;strong&gt;microshades&lt;/strong&gt; &lt;a href=&#34;https://karstenslab.github.io/microshades&#34;&gt;website&lt;/a&gt; to learn more!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Publication!</title>
+      <link>http://localhost:1313/post/dna_kits_paper/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/dna_kits_paper/</guid>
+      <description>&lt;p&gt;We evaluated the performance of several DNA extraction kits on urine samples. While we found differences in the quantity of DNA extracted amongst kits, we did NOT find large differences in the microbial composition recovered from individual samples.&lt;/p&gt;
+&lt;p&gt;Importantly, we found that the kits had a high variability in dilute samples, indicating that kit choice is important for low microbial biomass specimens such as catheter-collected urine.&lt;/p&gt;
+&lt;p&gt;In our most dilute mock microbial samples, the DNeasy Blood &amp;amp; Tissue kit detected all expected microbes (and others), while the other kits did not. This reminds us that when dealing with low microbial biomass samples, experimental design is key to help identify contaminants.&lt;/p&gt;
+&lt;p&gt;Read the full article &lt;a href=&#34;https://www.nature.com/articles/s41598-021-85482-1#disqus_thread&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Color Vision Deficency Resources</title>
+      <link>http://localhost:1313/post/cvd_resources/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/cvd_resources/</guid>
+      <description>&lt;p&gt;Build EXITO student Emory Neer has developed a resource page for &lt;a href=&#34;https://sites.google.com/pdx.edu/cvd-friendliness-resources/home?fbclid=IwAR01_rPpeWNK3GaI2ozpnJr7THLH1ooWU7ZJ98ixVPJc2dBc18OEf_Mo-Mo&#34;&gt;CVD friendliness resources&lt;/a&gt;, including the handcrafted universally accessible palette that she has been working on. Also avalible at bit.ly/cvdresources&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Congrats to Kate for receiving the Frictionless data fellowship!</title>
+      <link>http://localhost:1313/post/frictionlessfellow/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/frictionlessfellow/</guid>
+      <description>&lt;p&gt;Learn more about &lt;a href=&#34;https://frictionlessdata.io&#34;&gt;Frictionless Data&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Congrats to 2018 graduates!</title>
+      <link>http://localhost:1313/post/2018_grads/</link>
+      <pubDate>Sun, 03 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/2018_grads/</guid>
+      <description>&lt;p&gt;The first two graduate students in the Karstens lab have officially graduated! Mark Klick and Vincent Caruso joined the Karstens Lab to complete their Master’s thesis project in 2017. Mark’s project was in collaboration with the Asquith Lab and focused on investigating a novel IgA Seq technology to understand spondyloarthritis. He will be joining this lab as a Research Assistant after graduation. Vincent’s project focused on benchmarking newly developed microbiome bioinformatic approachesin samples of varying microbial biomass. He will be completing a Fellowship at the CDC. Congrats Mark and Vincent!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

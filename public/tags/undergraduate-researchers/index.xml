@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Undergraduate Researchers on Karstens Lab</title>
+    <link>http://localhost:1313/tags/undergraduate-researchers/</link>
+    <description>Recent content in Undergraduate Researchers on Karstens Lab</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://localhost:1313/tags/undergraduate-researchers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alec Barstad</title>
+      <link>http://localhost:1313/lab_members/alec/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/lab_members/alec/</guid>
+      <description>&lt;p&gt;Alec Barstad is a graduate of Portland Community College’s Bioscience Technology Technical training program. He was with the lab from 2019 - 2022 and his contributions were in microbiology (EQUC) in addition to sample and data management.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
