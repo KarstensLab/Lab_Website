@@ -7,10 +7,22 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://localhost:1313/tags/academia/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome 2024 Interns!</title>
+      <link>http://localhost:1313/post/2024_interns/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/2024_interns/</guid>
+      <description>&lt;p&gt;Welcome summer 2024 interns! The Karstens lab is excited to host two students as part of the &lt;a href=&#34;https://www.ohsu.edu/school-of-medicine/medical-informatics-and-clinical-epidemiology/high-school-and-college&#34;&gt;Undergraduate Biomedical Informatics and Data Science Internship Program&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Benjamin (Benji) Lamp (left in photo) is an undergraduate student at Texas A&amp;amp;M University, pursuing a major in Biomedical Sciences with a minor in Bioinformatics and a certificate in Biomedical Research. He is passionate about bioinformatic research for the opportunity it provides to explore fields beyond his major, such as computer science, statistics, and data science. In his free time, Benji loves hanging out with his dog Lily, listening to public radio, and attending Aggie football games!&lt;/p&gt;
+&lt;p&gt;Charles Parker (right in photo) just graduated from Portland State University with a degree in General Science and minor in Mathematics. This fall, he will be attending OHSU-PSU School of Public Health Biostatistics program. Outside of work, his hobbies include roller skating and crocheting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>microshades featured by ASM journal</title>
